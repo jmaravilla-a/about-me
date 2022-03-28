@@ -3,7 +3,7 @@
 <p><em> Full Stack Software Engineer from <a href="https://flatironschool.com/">Flatiron School<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/FS_wiki.png" width="75"></a></br>Looking to use my skills to give back!  
 </em></p>
 
-<p><em> You can find me on: <a href="https://www.linkedin.com/in/javier-maravilla/"><img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/illustrations/dsk-e6.svg.original.svg" width="75"></a>, <a href="https://www.youtube.com/channel/UCiO9BQl4bwbuNc4yD8WmC5A"><img src="https://clipart.info/images/ccovers/1590430872youtube-logo-png-transparent-text.png" width="75"></a>, <a href="https://medium.com/@javier.maravilla"><img src="https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png" width="75" background="white"></a> 
+<p><em> You can find me on: <a href="https://www.linkedin.com/in/javier-maravilla/"><img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/illustrations/dsk-e6.svg.original.svg" width="75"></a>, <a href="https://www.youtube.com/channel/UCiO9BQl4bwbuNc4yD8WmC5A"><img src="https://clipart.info/images/ccovers/1590430872youtube-logo-png-transparent-text.png" width="75"></a>, <a href="https://medium.com/@javier.maravilla"><img src="https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png" width="75" background-color="white"></a> 
 </em></p>
 
 
